@@ -1,0 +1,10 @@
+# Build output
+bin/
+*.class
+
+# IDE and OS settings
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
